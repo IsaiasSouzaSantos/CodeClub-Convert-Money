@@ -7,6 +7,9 @@
 - [x] HTML5
 - [X] CSS3
 - [X] JavaScript
+<p> Link para acessa o sistema: Hospedado no GitHub Pages</p>
+
+ >[CodeClub Convert Money](https://isaiassouzasantos.github.io/CodeClub-Convert-Money/)
 
 #### Bitcoin
 <img src="./assets/img/coin.jpg" width = "350px">
@@ -16,9 +19,9 @@
 
 #### Euro
 <img src="./assets/img/euro.jpg" width = "350px"><br>
-<p> Link para acessa o sistema: Hospedado no GitHub Pages</p>
 
-[CodeClub Convert Money](https://isaiassouzasantos.github.io/CodeClub-Convert-Money/)
+
+
 
 
 
