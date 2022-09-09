@@ -11,6 +11,8 @@
 
  >[CodeClub Convert Money](https://isaiassouzasantos.github.io/CodeClub-Convert-Money/)
 
+ >Consumindo uma API AWESOMEAD
+
 #### Bitcoin
 <img src="./assets/img/coin.jpg" width = "350px">
 
